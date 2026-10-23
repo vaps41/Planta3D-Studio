@@ -1,0 +1,6 @@
+{
+  "name": "Planta3D Studio",
+  "description": "Plataforma SaaS para corretores e construtoras que converte plantas baixas em modelos 3D decorados e tours virtuais navegáveis.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
